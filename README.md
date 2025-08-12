@@ -17,7 +17,7 @@ A simple Android app to take student attendance using a list. You can mark stude
 1. Open the app.
 2. Check the boxes next to the students who are present.
 3. Press the **Submit** button.
-4. See the list of students marked as present.
+4. See the list of students marked as present.The code is well commented so user can get a better clarification about the codes.
 
 ---
 
